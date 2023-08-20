@@ -18,5 +18,3 @@ Getting Started:
 1. Clone the repository and navigate to the project directory.
 2. Set up RedisJSON and Redis Streams according to the provided instructions.
 3. Navigate to the microservices backend directory and run the FastAPI applications.
-4. Navigate to the frontend directory and install project dependencies using npm.
-5. Launch the frontend development server using npm to interact with the microservices.
